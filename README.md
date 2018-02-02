@@ -1,0 +1,2 @@
+# simple_single_page_application
+简单的单页面框架
